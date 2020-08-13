@@ -1,0 +1,10 @@
+﻿  k-means와OpenCV.cpp
+e:\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+e:\opencv\build\include\opencv2\flann\logger.h(34): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  e:\opencv\build\include\opencv2\flann\logger.h(34): note: 명령줄 인수: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+c:\users\pc1\documents\visual studio 2015\projects\k-means와opencv\k-means와opencv\k-means와opencv.cpp(146): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pc1\documents\visual studio 2015\projects\k-means와opencv\k-means와opencv\k-means와opencv.cpp(197): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pc1\documents\visual studio 2015\projects\k-means와opencv\k-means와opencv\k-means와opencv.cpp(198): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\pc1\documents\visual studio 2015\projects\k-means와opencv\k-means와opencv\k-means와opencv.cpp(199): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  k-means와OpenCV.vcxproj -> C:\Users\pc1\Documents\Visual Studio 2015\Projects\k-means와OpenCV\Debug\k-means와OpenCV.exe
+  k-means와OpenCV.vcxproj -> C:\Users\pc1\Documents\Visual Studio 2015\Projects\k-means와OpenCV\Debug\k-means와OpenCV.pdb (Full PDB)
