@@ -1,1 +1,1 @@
-# Image-Clustering-with-K-means
+# K-means알고리즘을 이용하여 이미지를 비슷한 색깔끼리 합쳐 K개의 색깔 그룹으로 만드는 프로젝트
